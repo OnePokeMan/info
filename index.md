@@ -1,11 +1,11 @@
-## General Information
+## **General Information**
 
 My name is Ryan Kim
 
 I enjoy: Video Games, Anime, Taekwondo, Reading, and Activities with Friends
 
 ![1580443910201](https://user-images.githubusercontent.com/85847438/121822295-58021d80-cc6c-11eb-9a3b-4b5f53b0febb.jpg)
-###### _This is what I look like!_
+> _This is what I look like!_
 
 ### You can find me on:
 Instagram - [how.disgusting](https://www.instagram.com/how.disgusting/)
