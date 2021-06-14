@@ -13,7 +13,7 @@ Instagram - [how.disgusting](https://www.instagram.com/how.disgusting/)
 ## **Accomplishments**
 <dl>
   <dt>Awards</dt>
-    <dd>Silver and Gold Honor Rolls through high school</dd>
+    <dd>Silver and Gold Honor Rolls throughout high school</dd>
     <dd>1st Degree Black Belt in Taekwondo</dd>
     <dd>Bronze Junior Leadership Award from the National Association for Korean Schools</dd>
     <dd>Bronze and Silver President's Volunteer Service Awards</dd>
